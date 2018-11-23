@@ -1,0 +1,97 @@
+.layout {
+  width: 100%;
+padding-left: 0;
+margin-right: 0;
+margin-left: 0;
+    /* Ширина всей таблицы */
+   }
+   TD {
+    vertical-align: top; /* Вертикальное выравнивание в ячейках */
+    padding: 0px;/* Поля вокруг ячеек */
+   }
+   TD.leftcol {
+    width: 700px;
+    background: orange;т фона левой колонки */
+    border:0; /* Параметры рамки */
+   }
+   TD.rightcol {
+    background: orange;ет фона правой колонки */
+    border: 0;
+    height:80px;
+    padding: 0;
+     /* Параметры рамки */
+   }
+   .spacer {
+    width: 10px; /* Расстояние между колонками */
+   }
+   .table2{
+    width: 100%;
+    border:0;
+    height:300px; 
+    margin-left: 0;
+   }
+   
+   TD.col{
+    background: green;
+    border: 0px;
+    height: 300%;
+    width: 100%;
+    padding-top: 50px;
+    margin-left: 0;
+    margin-right: 0;
+   }
+   body{
+    margin: -10px;
+    margin-right: -20px;
+   }
+   .table3{
+    width: 100%;
+    border:0;
+    height: 160px; 
+    margin-left: 0;
+    vertical-align: top;
+   }
+   .table4{
+    width: 100%;
+    border:0;
+    height: 180px; 
+    margin-left: 0;
+    vertical-align: top;
+   }
+
+
+   TD.col1{
+background: blue;
+height: 100%;
+width:500px;
+   }
+    TD.col2{
+background: blue;
+height: 100%;
+width: 500px;
+   }
+    TD.col3{
+background: blue;
+height: 100%;
+width: 300px;
+   }
+    TD.col41{
+background: grey;
+height: 50%;
+width:400px;
+   }
+    TD.col42{
+background: grey;
+height: 50%;
+width: 400px;
+   }
+    TD.col43{
+background: grey;
+height: 50%;
+width: 400px;
+   }
+    TD.col44{
+background: grey;
+height: 50%;
+width:200px;
+   }
